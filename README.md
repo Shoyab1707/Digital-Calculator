@@ -20,7 +20,7 @@ The calculator is built using HTML, CSS, and JavaScript, making it easy to integ
 
 ## Demo
 
-You can try out a live demo of the calculator [here](`https://shoyab1707.github.io/Digital-Calculator/`).
+You can try out a live demo of the calculator [here](https://shoyab1707.github.io/Digital-Calculator/).
 
 ## Contributing
 
